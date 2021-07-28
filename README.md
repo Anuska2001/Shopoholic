@@ -1,4 +1,4 @@
-# myproject2
+# shopoholic
 
 A new Flutter project.
 
